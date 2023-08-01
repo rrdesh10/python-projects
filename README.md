@@ -8,4 +8,8 @@ project aim is to give the color name and RGB values of it by just clicking on.
 we have data file "colors.csv" it contains color name and values then we will calculate distance from each color and
 find the shortest distance.
 Opencv and pandas modules are used in this project.
-colorspic.jpg is sample file used to experimenting 
+colorspic.jpg is sample file used to experimenting
+
+<h3>Hangman Game</h3>
+The Hangman game is words guessing game. Player has limited chances to guess the word.
+
