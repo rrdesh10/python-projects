@@ -13,3 +13,5 @@ colorspic.jpg is sample file used to experimenting
 <h3>Hangman Game</h3>
 The Hangman game is words guessing game. Player has limited chances to guess the word.
 
+<h3>Tic Tac Toe </h3>
+In this project I have used pygame package and build a Tic Tac Toe game.
